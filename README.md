@@ -1,2 +1,2 @@
 
-## Internship Task of Oasis InfoByte for Java Developement
+## Internship Task of Oasis InfoByte for Java Development
